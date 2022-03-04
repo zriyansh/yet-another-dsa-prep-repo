@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "valarray": "cpp",
+        "set": "cpp",
+        "vector": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp",
+        "type_traits": "cpp"
+    }
+}
